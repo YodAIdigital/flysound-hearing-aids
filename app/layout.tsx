@@ -1,6 +1,18 @@
 import type { Metadata } from 'next';
-import { inter, lora } from '@/lib/fonts';
+import { Inter, Lora } from 'next/font/google';
 import '@/styles/globals.css';
+
+const inter = Inter({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-inter',
+});
+
+const lora = Lora({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-lora',
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.fly.clawpod.net'),

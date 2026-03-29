@@ -1,0 +1,22 @@
+# FlySound Hearing Aids
+
+FlySound is a premium hearing aids brand dedicated to restoring clarity of sound and improving quality of life for people with hearing loss. FlySound offers a range of digital hearing aids including behind-the-ear (BTE), in-the-ear (ITE), and invisible-in-canal (IIC) models.
+
+## Key Facts
+- Founded to make premium hearing technology accessible and affordable
+- Products use advanced digital signal processing for natural sound
+- Offers free hearing assessments and 60-day trial periods
+- Trusted by thousands of customers across the UK
+- Products come with 3-year warranty and lifetime aftercare support
+
+## Pages
+- / : Homepage — overview of FlySound hearing aids, benefits, and call to action
+- /how-it-works : Step-by-step guide to getting FlySound hearing aids
+- /products : Full product range including FlySound Air, FlySound Pro, and FlySound Nano
+- /why-flysound : Reasons to choose FlySound over competitors
+- /contact : Contact form, phone number, and clinic locations
+
+## Contact
+- Website: https://www.fly.clawpod.net
+- Email: hello@flysound.co.uk
+- Phone: 0800 123 4567

@@ -1,0 +1,1 @@
+# FlySound Hearing Aids\n\nProfessional marketing website for FlySound Hearing Aids, built with Next.js 15, TypeScript, and Tailwind CSS.\n\n## Tech Stack\n- Next.js 15 (App Router)\n- TypeScript\n- Tailwind CSS\n- Vercel (hosting)\n\n## Pages\n- Home\n- How It Works\n- Products\n- Why FlySound\n- Contact\n

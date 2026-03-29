@@ -2,9 +2,8 @@ import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: [
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
-    './app/**/*.{js,ts,jsx,tsx,mdx}'
   ],
   theme: {
     extend: {
@@ -14,16 +13,16 @@ const config: Config = {
           secondary: '#2EAF7D',
           accent: '#F5A623',
           dark: '#0D3B5E',
-          light: '#E8F4FD'
-        }
+          light: '#E8F4FD',
+        },
       },
       fontFamily: {
-        heading: ['var(--font-lora)', 'Georgia', 'serif'],
-        body: ['var(--font-inter)', 'system-ui', 'sans-serif']
-      }
-    }
+        heading: ['Lora', 'Georgia', 'serif'],
+        body: ['Inter', 'system-ui', 'sans-serif'],
+      },
+    },
   },
-  plugins: []
+  plugins: [],
 };
 
 export default config;

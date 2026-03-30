@@ -1,27 +1,38 @@
 # FlySound Hearing Aids
 
-Professional marketing website for FlySound Hearing Aids, built with Next.js 15, TypeScript, and Tailwind CSS.
+Premium digital hearing aids that restore natural, crystal-clear sound.
 
-## 🌐 Production
-- **Vercel**: https://flysound-hearing-aids.vercel.app
-- **Custom Domain**: https://www.fly.clawpod.net
+## Features
 
-## Tech Stack
-- Next.js 15 (App Router)
-- TypeScript
-- Tailwind CSS
-- Vercel (hosting)
-- Cloudflare (DNS)
+- **AI-Powered Clarity** — Advanced noise reduction technology
+- **Virtually Invisible** — Discreet, modern design
+- **All-Day Comfort** — 16+ hours of comfortable wear
+- **Seamless Connectivity** — Bluetooth enabled
+- **Rechargeable** — One charge lasts all day
+- **Affordable** — Premium technology at a fraction of the cost
 
-## Pages
-- Home (`/`)
-- How It Works (`/how-it-works`)
-- Products (`/products`)
-- Why FlySound (`/why-flysound`)
-- Contact (`/contact`)
+## Getting Started
 
-## SEO
-- Sitemap at `/sitemap.xml`
-- Robots at `/robots.txt`
-- JSON-LD structured data
-- GEO optimised with `/llms.txt`
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deploy
+
+Automatically deployed to Vercel.
+
+## Domain
+
+**Production URL**: https://www.fly.clawpod.net
+
+## Contact
+
+- Email: support@flysound.com
+- Phone: 1-800-FLYSOUND
